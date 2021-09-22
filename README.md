@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishal Srivastava
 - 👀 My interest are JAVA, SPRING BOOT, SPRING SECURITY, SPRING DATA JPA, ANGULAR, DOCKER, AWS, FLUTTER, MYSQL.
-- 🌱 I’m currently learning above technologies to get deeper and deeper into these.
+- 🌱 I’m Software engineer with curiosity to learn more and more currently learning above technologies to get deeper and deeper into these.
 - 📫 You can reach me on - omshantivishal18@gmail.com or vishalsrivastava1850@gmail.com
 
 <!---
